@@ -17,7 +17,7 @@ const Sneha = {
   pronouns: "she" | "her",
   code: [Javascript, Java, C, HTML, CSS],
   tools: [React, Node, Express, PostgreSQL, MongoDB, Postman],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
 }
 </p>
 
