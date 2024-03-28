@@ -11,15 +11,14 @@
 
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-  <p>
-javascript
-const Sneha = {
-  pronouns: "she" | "her",
-  code: [Javascript, Java, C, HTML, CSS],
-  tools: [React, Node, Express, PostgreSQL, MongoDB, Postman],
-
+  
+<br />javascript
+<br />const Sneha = {
+ <br /> pronouns: "she" | "her",
+  <br />code: [Javascript, Java, C, HTML, CSS],
+ <br /> tools: [React, Node, Express, PostgreSQL, MongoDB, Postman],
 }
-</p>
+
 
  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="50"> &nbsp;Github Status ...
 
