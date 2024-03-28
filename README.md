@@ -3,7 +3,7 @@
 </p>
 <h2> Hi, I'm Sneha Vaghela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Engineering Student at <a href="https://www.vgecg.ac.in/">Vishwakarma Government Engineering College</a> &nbsp; <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Engineering Student at <a href="https://www.vgecg.ac.in/">Vishwakarma Government Engineering College</a>
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-SnehaVaghela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sneha-vaghela/)](https://www.linkedin.com/in/sneha-vaghela/)
@@ -11,15 +11,15 @@
 
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+  <p>
 javascript
-const thai = {
+const Sneha = {
   pronouns: "she" | "her",
   code: [Javascript, Java, C, HTML, CSS],
   tools: [React, Node, Express, PostgreSQL, MongoDB, Postman],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
-
+</p>
 
  <img src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif" width="50"> &nbsp;Github Status ...
 
